@@ -47,6 +47,10 @@ a {
   fill: #ff6b08;
 }
 
+.footer-icon:hover {
+  fill: red;
+}
+
 .our-team {
   text-decoration: underline;
   cursor: pointer;
